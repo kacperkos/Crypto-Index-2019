@@ -1,0 +1,1 @@
+Binance,BitBay,Bitfinex,Bitsdaq,Bittrex

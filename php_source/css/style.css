@@ -1,0 +1,115 @@
+/* DIV */
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Tahoma;
+}
+
+div#headerBg, div#contentBg {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: inline-block;
+}
+
+div#headerLeft {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: inline-block;
+    float: left;
+}
+
+div#headerRight {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+
+div#messageBox {
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+}
+
+/* TEXT */
+
+p {
+    font-family: Tahoma;
+    font-size: 0.8em;
+    margin: 10px;
+}
+
+a {
+    color: grey;
+    text-decoration: underline dotted;
+    font-weight: bold;
+}
+
+a:hover {
+    color: black;
+}
+
+p.title {
+    font-weight: bold;
+    color: blue;
+}
+
+p.message {
+    font-weight: bold;
+    color: greenyellow;
+}
+
+p.message a {
+    color: greenyellow;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+p.message a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+p.hint {
+    font-size: 0.7em;
+}
+
+table {
+    font-family: Tahoma;
+    font-size: 0.8em;
+    margin: 10px;
+}
+
+tr.titleLine td {
+    background-color: grey;
+    color: white;
+}
+
+td {
+    padding: 5px;
+}
+
+tr.secondLine td {
+    background-color: #efefef;
+}
+
+span.red {
+    color: red;
+}
+
+span.green {
+    color: green;
+}
+
+form {
+    margin: 10px;
+}
