@@ -7,7 +7,7 @@
 >
 > **Warning**: You won't be able to remotely manage your cryptocurrency exchanges' accounts with this tool.
 >
-> **Warning**: This tool isn't professional advicing solution and its author isn't investment advisor. Author don't take responsibility for financial decisions (such as cryptocurrency buy/sell operations) made during using this app.
+> **Warning**: This tool isn't professional advicing solution and its author isn't investment advisor. Author don't take responsibility for financial decisions (such as cryptocurrencies' buy/sell operations) made during using this app.
 
 
 ## Table of Contents
