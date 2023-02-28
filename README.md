@@ -34,7 +34,6 @@
 
 
 ## Features
-List the ready features here:
 - Adding investments; enter cryptocurrency purchase details, so tool could calculate your current ROI.
 - CoinMarketCap.com data update; just click once to get newest cryptocurrencies' prices.
 - Exchanges list; enter names of all exchanges where you bought cryptocurrencies and you'll receive investments list for all of them.
