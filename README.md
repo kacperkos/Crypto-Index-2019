@@ -57,7 +57,7 @@ To run this tool properly you'll need server or hosting with PHP 7.4. (cURL and 
 8. Enter PLN/USD exchange rate using "Change price of $1" feature.
 9. Enter at least one exchange name using "Exchanges list" feature.
 
-Tools is ready! Now you can add your investments and see how many of them have positive ROI. Anytime you'll want to see fresh calculations, all you'll have to do is to run "Update CoinMarketCap.com data".
+Tool is ready! Now you can add your investments and see how many of them have positive ROI. Anytime you'll want to see fresh calculations, all you'll have to do is to run "Update CoinMarketCap.com data".
 
 
 ## Project Status
