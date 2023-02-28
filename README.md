@@ -52,7 +52,7 @@ To run this tool properly you'll need server or hosting with PHP 7.4. (cURL and 
 2. Configure password; encrypt yout passphrase with MD5 and paste it into /lib/config.php
 3. Configure CoinMarketCap PRO API Key; to run this tool you'll have to generate free CoinMarketCap PRO API Key at https://pro.coinmarketcap.com/signup. When you'll get it then paste the key into /lib/config.php
 4. Create empty MySQL database and run SQL commands from file db_structure.sql
-5. Enter database details into into /lib/db.php
+5. Enter database details into /lib/db.php
 6. Upload files to your FTP server.
 7. Login with your password and immediately run "Update CoinMarketCap.com data".
 8. Enter PLN/USD exchange rate using "Change price of $1" feature.
