@@ -3,9 +3,11 @@
 >
 > <img src="app.png" alt="Crypto-Index app view" />
 >
-> **Warning**: tool was designed to use PLN as major currency and USD as auxiliary. Of course ROI's will be calculated properly for any currency, however GUI has sense only for PLN and USD.
+> **Warning**: This tool was designed to use PLN as major currency and USD as auxiliary. Of course ROI's will be calculated properly for any currency, however GUI has sense only for PLN and USD.
 >
-> **Warning**: you won't be able to remotely manage your cryptocurrency exchanges' accounts with this tool.
+> **Warning**: You won't be able to remotely manage your cryptocurrency exchanges' accounts with this tool.
+>
+> **Warning**: This tool isn't professional advicing solution and its author isn't investment advisor. Author don't take responsibility for financial decisions (such as cryptocurrency buy/sell operations) made during using this app.
 
 
 ## Table of Contents
